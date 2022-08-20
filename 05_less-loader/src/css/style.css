@@ -1,0 +1,8 @@
+.content {
+  background-color: red;
+  height: 300px;
+  width: 900px;
+  user-select: none;/*适配浏览器需要加前缀*/
+  font-size: 30px;
+  color:#01010766;
+}
